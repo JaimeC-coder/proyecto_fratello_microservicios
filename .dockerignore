@@ -1,0 +1,3 @@
+./api_laravel/.gitignore
+./api_laravel/.dockerignore
+./api_laravel/vendor/
